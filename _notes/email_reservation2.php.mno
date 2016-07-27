@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Homestay_ID;datatype:string,name:Guest_Email;datatype:string,name:Reservation_ID;datatype:int,name:Date;datatype:date,name:Time;datatype:time,name:Date_Checkin;datatype:date,name:Date_Checkout;datatype:date,name:Total;datatype:real,name:Checkin;datatype:string,name:PaymentProof_Slip;datatype:blob,name:Status;datatype:string,name:Guest_Name;datatype:string,name:Guest_IC;datatype:string,name:Guest_BirthDate;datatype:date,name:Guest_Gender;datatype:string,name:Guest_Address;datatype:string,name:Guest_City;datatype:string,name:Guest_State;datatype:string,name:Guest_Country;datatype:string,name:Guest_PhoneNumber;datatype:string,name:Guest_Password;datatype:string,name:Description;datatype:string,name:Price;datatype:real" />
+</info>

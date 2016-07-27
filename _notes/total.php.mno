@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:Staff_id;datatype:string,name:Staff_checkin;datatype:string,name:Staff_check_out;datatype:string,name:Date;datatype:string,name:Staff_id;datatype:string,name:Staff_name;datatype:string,name:Salary_per_hour;datatype:string" />
+</info>
