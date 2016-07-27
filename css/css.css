@@ -1,0 +1,24 @@
+
+
+#Error{
+
+	color: #F00;
+	height:50px; 
+	z-index: 4;
+	text-align:center;
+	width: 190px;
+	margin-bottom: -25px;
+	}
+#Success{
+
+	color:#669933; 
+	height:50px; 
+	z-index: 4;
+	text-align:center;
+	width: 130px;
+	margin-bottom: -25px;
+	}
+
+
+/* CSS Document */
+
